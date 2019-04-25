@@ -126,4 +126,49 @@ public class MultiStoreyTest {
         // Assert
         assertThat(parkingSpace).isEqualTo(space2);
     }
+
+    @Test
+    public void multiStoreyFindsSpaceContainingParticularVehicle() {
+
+        // Arrange
+        Floor floor1 = new Floor(1);
+        Floor floor2 = new Floor(2);
+        ParkingSpace space1 = new ParkingSpace(1, 2.0, 2.0);
+        ParkingSpace space2 = new ParkingSpace(2, 2.0, 2.0);
+        floor1.addParkingSpace(space2);
+        floor2.addParkingSpace(space1);
+        Vehicle vehicle = new Vehicle(Vehicle.Type.CAR, "REG1", 1.5, 1.5);
+        space1.parkVehicle(vehicle);
+
+        MultiStorey multiStorey = new MultiStorey(floor2, floor1);
+
+        // Act
+        ParkingSpace parkingSpace = multiStorey.getSpaceContainingVehicleWithRegistration(vehicle.getRegistration());
+
+        // Assert
+        assertThat(parkingSpace).isEqualTo(space1);
+    }
+
+    @Test
+    public void multiStoreyReturnsNullIfVehicleNotFound() {
+
+        // Arrange
+        Floor floor1 = new Floor(1);
+        Floor floor2 = new Floor(2);
+        ParkingSpace space1 = new ParkingSpace(1, 2.0, 2.0);
+        ParkingSpace space2 = new ParkingSpace(2, 2.0, 2.0);
+        floor1.addParkingSpace(space2);
+        floor2.addParkingSpace(space1);
+        Vehicle vehicle1 = new Vehicle(Vehicle.Type.CAR, "REG1", 1.5, 1.5);
+        Vehicle vehicle2 = new Vehicle(Vehicle.Type.CAR, "REG2", 1.5, 1.5);
+        space1.parkVehicle(vehicle1);
+
+        MultiStorey multiStorey = new MultiStorey(floor2, floor1);
+
+        // Act
+        ParkingSpace parkingSpace = multiStorey.getSpaceContainingVehicleWithRegistration(vehicle2.getRegistration());
+
+        // Assert
+        assertThat(parkingSpace).isNull();
+    }
 }
