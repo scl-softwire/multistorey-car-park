@@ -31,4 +31,9 @@ public class Floor {
         // TODO - replace this!
         return 0;
     }
+
+    public ParkingSpace getNearestFreeSpaceForVehicle(Vehicle vehicle) {
+        // TODO - replace this!
+        return null;
+    }
 }
