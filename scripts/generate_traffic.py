@@ -14,7 +14,7 @@ def random_digit():
     return random.randrange(0, 10)
 
 def random_vehicle_type():
-    return random.choice(['CAR', 'VAN', 'MOTROCYCLE'])
+    return random.choice(['CAR', 'VAN', 'MOTORCYCLE'])
 
 def random_reg_number():
     return "{}{}{}{}{}{}{}".format(random_letter(), random_letter(), random_digit(), random_digit(), random_letter(), random_letter(), random_letter())
