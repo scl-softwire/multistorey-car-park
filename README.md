@@ -110,4 +110,18 @@ For the final time, run these tests then make them pass.
 
 ## Final Part - All systems go!
 
-Watch this space...
+The car park is now operational! Yippee!
+
+You want to monitor how it behaves over its first day of operation. The file [spaces.csv](spaces.csv) contains definitions of all the parking spaces that appear in the car park, in CSV format. Make your `main` method read this file, and create a `MultiStorey` that contains the floors and parking spaces that can be found in the file.
+
+The second file [events.txt](events.txt) contains the log of every event that happened over the course of a single day.
+
+Each line in that file is either an "Entry" or an "Exit". Each "Entry" contains the type, registration and dimensions of a vehicle that's entering the car park, and each "Exit" contains the registration of a vehicle that's leaving.
+
+Update your program so that for each event in this file, it finds which parking space that vehicle should park in, parks it in that space, and prints a line containing the vehicle registration and the parking space ID to an output file.
+
+If there are no spaces for the vehicle, then output a line containing the vehicle registration and "no suitable spaces".
+
+Every time a vehicle exits, remove it from its parking space and output a line containing the registration number and "left the car park". Note that there may still be an "Exit" line for vehicles that didn't actually get given a parking space - they still have to leave the car park!
+
+Run your program and get someone to check if your output file is correct!

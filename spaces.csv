@@ -1,0 +1,1001 @@
+Floor,Space,Width,Height,Restriction
+0,023,1.60,1.30,no restriction
+7,706,1.98,1.84,CAR
+4,496,2.40,1.86,no restriction
+4,452,2.33,1.36,no restriction
+8,870,1.60,1.88,no restriction
+5,515,2.19,2.39,VAN
+3,385,1.46,1.4,no restriction
+9,968,1.93,2.23,no restriction
+5,564,2.32,1.69,CAR
+4,438,2.9,1.89,no restriction
+3,359,2.17,2.20,no restriction
+4,486,2.41,1.24,no restriction
+5,510,1.95,1.95,no restriction
+0,077,1.62,1.39,no restriction
+9,930,1.15,1.68,no restriction
+0,041,1.37,1.41,MOTORCYCLE
+0,074,2.16,2.12,no restriction
+2,215,1.67,2.40,no restriction
+6,605,1.58,2.14,no restriction
+3,356,1.74,1.56,no restriction
+6,600,1.29,1.48,CAR
+1,134,1.19,2.28,no restriction
+1,189,2.25,2.2,no restriction
+9,998,1.42,2.30,CAR
+6,620,1.72,1.68,MOTORCYCLE
+9,942,1.79,1.16,no restriction
+3,371,1.0,2.36,no restriction
+7,731,1.84,1.77,VAN
+4,491,1.25,2.6,no restriction
+9,963,2.12,1.54,MOTORCYCLE
+3,341,1.31,1.7,CAR
+0,078,1.86,2.37,no restriction
+4,481,1.30,1.35,no restriction
+1,152,1.0,2.11,no restriction
+9,917,1.8,2.49,CAR
+2,220,2.0,1.33,VAN
+9,957,2.36,1.50,CAR
+1,126,1.58,1.74,no restriction
+9,911,1.93,1.18,VAN
+8,892,1.39,1.58,no restriction
+6,692,1.64,1.85,MOTORCYCLE
+1,141,1.45,1.6,no restriction
+5,593,1.21,1.78,no restriction
+3,337,1.21,1.58,no restriction
+9,991,2.37,1.49,no restriction
+7,707,2.45,1.39,VAN
+7,711,1.76,2.8,VAN
+5,554,1.30,1.39,no restriction
+3,323,1.37,2.22,no restriction
+9,935,1.57,2.50,CAR
+8,881,1.49,2.42,MOTORCYCLE
+0,085,2.2,1.1,CAR
+1,131,2.23,1.45,MOTORCYCLE
+3,363,2.37,2.12,CAR
+5,506,1.75,1.28,VAN
+8,897,1.70,1.86,no restriction
+7,797,2.14,1.1,no restriction
+2,202,1.58,1.76,MOTORCYCLE
+7,737,1.2,2.21,CAR
+9,985,1.48,1.24,CAR
+5,536,1.87,1.35,no restriction
+2,216,1.91,2.1,no restriction
+9,959,1.21,2.17,no restriction
+7,794,2.26,1.79,no restriction
+9,983,2.25,1.76,no restriction
+0,059,2.39,1.12,no restriction
+7,750,1.49,1.28,MOTORCYCLE
+0,060,1.57,1.91,no restriction
+6,682,1.62,1.66,no restriction
+9,946,2.2,1.64,CAR
+1,140,2.19,1.25,no restriction
+9,967,1.52,1.70,MOTORCYCLE
+8,862,1.73,1.67,no restriction
+9,953,1.37,1.47,CAR
+6,665,2.24,1.90,no restriction
+5,584,1.56,1.61,no restriction
+0,095,1.61,1.45,no restriction
+7,784,1.82,2.15,no restriction
+0,043,1.30,1.39,no restriction
+7,791,1.26,1.39,VAN
+3,309,1.84,2.49,CAR
+2,254,2.11,1.87,no restriction
+6,681,1.51,1.99,no restriction
+7,727,1.9,1.76,no restriction
+3,348,1.59,2.24,VAN
+7,739,1.80,2.15,VAN
+1,197,2.25,1.54,VAN
+3,378,1.95,1.67,VAN
+1,110,1.83,2.49,VAN
+5,517,1.79,1.96,no restriction
+9,922,1.41,1.47,no restriction
+5,525,1.99,2.19,no restriction
+5,514,1.5,1.27,no restriction
+5,570,2.29,1.55,no restriction
+1,150,2.26,1.43,no restriction
+1,127,1.89,2.41,CAR
+1,168,1.25,1.47,MOTORCYCLE
+7,781,1.13,1.4,no restriction
+0,015,1.37,1.76,no restriction
+0,088,2.43,1.23,no restriction
+9,933,1.13,2.42,no restriction
+1,175,1.37,1.49,no restriction
+4,477,2.9,2.5,no restriction
+0,035,2.24,1.35,MOTORCYCLE
+7,786,2.29,1.46,no restriction
+8,886,2.2,2.40,no restriction
+1,191,1.31,2.9,no restriction
+9,952,2.15,1.65,no restriction
+4,404,1.74,2.35,VAN
+2,240,2.0,1.89,CAR
+4,423,1.99,1.25,no restriction
+0,037,1.82,1.25,no restriction
+3,316,2.3,1.11,CAR
+9,980,2.36,1.35,no restriction
+1,172,2.26,1.56,MOTORCYCLE
+8,834,1.94,1.96,CAR
+2,262,2.35,2.27,MOTORCYCLE
+9,993,1.48,1.28,no restriction
+0,053,1.98,2.36,no restriction
+7,770,2.14,1.27,no restriction
+0,065,1.96,1.1,VAN
+3,308,1.96,2.31,no restriction
+2,230,1.54,1.70,no restriction
+7,792,1.31,2.2,no restriction
+6,670,1.76,1.63,no restriction
+5,573,2.34,2.20,no restriction
+6,675,1.44,2.41,no restriction
+6,651,1.53,1.32,no restriction
+6,687,1.65,2.9,no restriction
+0,072,1.38,1.53,no restriction
+3,312,1.80,1.26,MOTORCYCLE
+7,776,2.40,1.7,no restriction
+8,821,1.56,1.67,no restriction
+0,092,1.65,1.97,MOTORCYCLE
+1,154,1.56,1.11,MOTORCYCLE
+7,736,2.38,1.88,no restriction
+4,465,1.60,1.58,no restriction
+6,656,2.42,1.82,CAR
+7,717,1.77,1.7,VAN
+0,022,1.24,1.56,VAN
+2,292,2.14,1.90,VAN
+8,829,1.42,2.23,no restriction
+5,513,1.5,2.18,no restriction
+2,258,2.21,1.72,no restriction
+5,588,1.82,1.53,no restriction
+4,460,1.51,1.95,no restriction
+2,294,1.61,1.63,no restriction
+9,941,2.34,1.94,MOTORCYCLE
+9,907,2.36,1.13,no restriction
+5,508,1.74,2.9,no restriction
+9,928,1.35,2.25,no restriction
+8,850,2.36,1.91,MOTORCYCLE
+2,223,1.78,1.0,VAN
+1,128,1.17,2.14,MOTORCYCLE
+1,120,2.37,1.90,no restriction
+6,693,1.53,2.42,no restriction
+5,557,1.55,1.68,no restriction
+0,029,1.63,2.2,no restriction
+0,011,2.45,1.59,CAR
+1,118,1.25,2.33,no restriction
+8,848,1.14,1.4,MOTORCYCLE
+5,521,2.49,1.61,VAN
+9,956,1.34,2.49,no restriction
+1,176,2.35,2.33,no restriction
+5,577,1.14,1.70,no restriction
+6,604,2.1,1.33,no restriction
+2,295,1.93,2.49,no restriction
+3,319,1.19,1.6,no restriction
+5,524,2.6,1.62,no restriction
+2,209,1.77,1.76,no restriction
+6,660,1.6,1.7,no restriction
+2,242,1.18,1.67,no restriction
+4,421,2.18,1.42,no restriction
+0,086,1.30,1.37,VAN
+1,115,1.24,2.17,VAN
+2,287,2.36,2.31,MOTORCYCLE
+4,418,2.33,1.92,no restriction
+1,164,1.69,1.82,no restriction
+7,721,1.94,1.85,no restriction
+7,757,1.59,1.87,MOTORCYCLE
+9,926,2.17,2.26,VAN
+5,563,1.26,1.97,no restriction
+4,429,1.98,2.10,no restriction
+4,474,1.58,1.38,no restriction
+4,490,1.70,1.4,no restriction
+1,107,1.4,2.25,no restriction
+1,101,1.57,1.77,no restriction
+7,787,2.33,1.1,MOTORCYCLE
+6,668,1.1,1.99,CAR
+8,813,1.78,1.39,VAN
+9,982,1.39,2.8,CAR
+6,695,1.52,2.25,CAR
+3,389,2.13,1.91,CAR
+4,494,1.28,1.82,no restriction
+8,857,1.3,2.41,no restriction
+8,894,2.46,2.36,no restriction
+0,054,1.58,1.55,no restriction
+0,045,2.5,2.2,no restriction
+4,468,1.12,1.61,no restriction
+8,858,2.27,2.27,no restriction
+1,195,1.77,2.46,no restriction
+8,841,1.73,1.84,no restriction
+9,958,2.8,2.12,no restriction
+5,566,1.15,1.19,no restriction
+9,974,1.23,2.22,MOTORCYCLE
+7,714,1.52,1.47,CAR
+6,640,1.13,2.9,CAR
+1,142,2.11,1.65,no restriction
+2,206,2.47,2.33,CAR
+0,006,2.46,1.71,no restriction
+1,144,2.47,1.14,no restriction
+3,307,1.60,1.39,no restriction
+6,679,2.28,1.23,no restriction
+2,243,1.35,1.44,no restriction
+5,595,1.92,1.95,no restriction
+8,832,2.49,1.11,no restriction
+3,305,1.55,1.45,no restriction
+2,235,2.35,2.8,no restriction
+1,180,2.31,2.11,no restriction
+4,466,2.4,1.34,no restriction
+0,094,1.20,2.3,no restriction
+9,938,1.37,1.5,no restriction
+1,199,1.22,1.26,no restriction
+2,217,2.36,2.1,no restriction
+1,143,2.11,1.72,VAN
+0,068,2.1,1.2,no restriction
+0,048,1.44,2.45,MOTORCYCLE
+0,097,1.93,1.18,no restriction
+8,800,1.53,1.70,no restriction
+5,581,1.94,1.33,no restriction
+1,135,2.46,1.56,no restriction
+5,599,1.38,2.17,CAR
+9,979,1.72,1.52,no restriction
+6,664,2.36,2.6,no restriction
+2,296,1.38,2.50,CAR
+7,742,1.20,1.46,no restriction
+8,816,2.24,1.64,no restriction
+2,239,1.50,1.96,VAN
+1,194,1.74,2.41,MOTORCYCLE
+2,249,1.68,1.98,MOTORCYCLE
+8,805,1.83,1.4,VAN
+4,475,1.12,1.54,no restriction
+7,754,1.35,1.78,MOTORCYCLE
+7,725,2.34,2.23,no restriction
+2,248,1.11,1.88,CAR
+0,067,1.97,1.4,MOTORCYCLE
+6,622,1.44,1.57,no restriction
+4,403,1.41,1.87,no restriction
+4,406,1.79,1.69,no restriction
+1,157,2.22,1.6,no restriction
+7,778,1.6,1.39,no restriction
+9,995,2.26,1.90,no restriction
+9,966,1.45,1.3,no restriction
+1,181,2.22,1.55,no restriction
+2,245,1.70,1.86,no restriction
+0,042,2.43,1.4,MOTORCYCLE
+3,368,1.82,1.93,no restriction
+1,149,2.12,2.29,no restriction
+4,422,1.96,1.84,no restriction
+4,454,1.66,1.47,no restriction
+2,273,1.65,1.47,no restriction
+2,272,2.37,1.37,VAN
+2,228,2.9,2.25,MOTORCYCLE
+4,483,1.83,1.78,no restriction
+5,583,1.5,1.60,MOTORCYCLE
+7,762,1.77,1.38,no restriction
+8,845,1.85,1.57,no restriction
+3,330,1.3,1.87,no restriction
+9,934,2.50,2.37,CAR
+7,749,2.48,1.28,no restriction
+9,932,1.46,1.86,no restriction
+5,520,1.48,1.69,no restriction
+5,558,1.79,2.26,CAR
+9,937,1.42,1.44,no restriction
+3,325,2.16,1.36,VAN
+3,377,2.20,1.33,no restriction
+5,565,2.37,2.23,no restriction
+9,971,2.20,1.58,no restriction
+1,112,1.85,1.8,MOTORCYCLE
+5,522,1.29,1.72,no restriction
+2,265,1.79,1.1,no restriction
+3,397,1.52,1.76,VAN
+7,746,1.87,2.1,no restriction
+9,961,2.46,2.39,no restriction
+6,688,1.80,1.40,MOTORCYCLE
+6,673,2.49,2.19,no restriction
+0,066,2.1,1.18,MOTORCYCLE
+9,909,1.83,2.21,no restriction
+1,119,1.13,1.69,MOTORCYCLE
+9,977,1.99,1.82,CAR
+7,777,1.44,2.1,no restriction
+9,947,1.69,1.29,VAN
+6,608,1.48,2.41,no restriction
+2,201,1.15,1.37,no restriction
+7,733,2.2,2.9,no restriction
+1,173,2.14,2.14,no restriction
+9,929,2.37,1.24,VAN
+2,236,2.24,2.43,MOTORCYCLE
+0,096,1.10,2.14,CAR
+6,613,2.45,1.5,CAR
+5,534,2.46,1.46,no restriction
+6,667,1.58,1.99,no restriction
+1,123,2.13,2.42,MOTORCYCLE
+1,188,2.33,2.46,no restriction
+5,568,2.32,1.37,no restriction
+5,523,2.49,1.24,VAN
+2,252,1.39,1.19,no restriction
+5,550,1.8,2.1,no restriction
+6,617,1.96,1.98,no restriction
+4,462,2.25,1.1,no restriction
+6,637,1.49,1.28,no restriction
+6,685,2.24,1.94,no restriction
+0,028,1.91,1.30,CAR
+6,612,2.18,2.47,no restriction
+0,034,2.1,1.93,no restriction
+4,419,2.27,1.20,MOTORCYCLE
+6,601,1.27,1.36,no restriction
+8,879,1.37,1.64,no restriction
+0,082,1.4,1.99,VAN
+4,411,1.83,1.0,CAR
+3,386,1.91,1.13,no restriction
+8,808,1.48,1.65,no restriction
+8,867,2.44,2.43,no restriction
+9,976,1.71,2.37,CAR
+2,221,2.49,1.88,no restriction
+9,918,1.67,2.11,no restriction
+2,229,2.49,1.69,CAR
+1,160,1.37,2.27,no restriction
+6,650,2.34,1.36,VAN
+8,869,1.85,1.35,VAN
+2,250,1.10,2.41,no restriction
+1,133,1.64,1.62,no restriction
+9,949,1.17,1.52,no restriction
+3,361,2.43,1.31,no restriction
+0,030,1.69,1.37,VAN
+3,303,1.44,1.33,CAR
+9,950,2.29,2.49,VAN
+4,479,1.77,1.23,no restriction
+5,537,1.70,2.10,no restriction
+9,915,1.4,1.86,no restriction
+1,167,1.54,1.61,CAR
+7,716,2.22,1.86,CAR
+4,413,1.15,2.48,VAN
+0,025,1.84,1.25,no restriction
+7,772,1.85,2.21,CAR
+8,861,2.30,1.49,no restriction
+8,822,1.71,1.3,no restriction
+9,913,1.62,1.9,VAN
+5,540,1.94,1.29,no restriction
+5,597,1.59,1.45,VAN
+0,090,1.55,2.46,no restriction
+1,156,1.93,2.3,no restriction
+9,903,2.12,2.5,no restriction
+0,021,2.19,1.33,CAR
+4,487,2.18,1.90,no restriction
+6,641,2.37,1.34,no restriction
+2,237,1.38,1.55,no restriction
+0,098,1.53,1.73,MOTORCYCLE
+9,919,2.20,2.0,no restriction
+8,889,1.30,2.12,no restriction
+4,455,2.20,1.11,VAN
+9,924,1.92,1.57,no restriction
+7,753,1.17,1.19,MOTORCYCLE
+1,196,1.90,1.32,no restriction
+1,187,2.47,1.75,no restriction
+5,519,2.4,1.32,no restriction
+0,009,2.42,1.68,no restriction
+4,482,1.62,1.80,no restriction
+2,290,1.19,2.5,no restriction
+0,020,1.14,2.3,no restriction
+7,748,2.20,1.81,no restriction
+6,666,1.91,1.96,no restriction
+6,621,1.3,1.7,CAR
+3,350,1.79,1.60,VAN
+2,278,2.39,1.0,no restriction
+8,840,2.26,1.40,MOTORCYCLE
+4,420,2.22,1.13,CAR
+3,364,2.17,1.33,no restriction
+5,549,1.88,1.27,no restriction
+8,873,1.85,2.12,no restriction
+1,114,2.50,1.17,no restriction
+2,285,1.44,1.42,no restriction
+1,159,1.76,1.96,MOTORCYCLE
+7,720,2.45,2.4,no restriction
+3,343,2.4,1.34,no restriction
+5,561,1.50,1.69,no restriction
+3,357,1.33,1.4,no restriction
+0,049,1.1,2.49,VAN
+0,071,1.7,1.89,MOTORCYCLE
+8,888,2.30,2.35,no restriction
+9,960,2.0,1.44,MOTORCYCLE
+7,790,1.1,1.5,VAN
+8,825,2.3,2.11,CAR
+3,355,1.73,1.3,no restriction
+4,495,1.96,2.44,CAR
+9,905,1.4,2.13,CAR
+0,056,1.46,2.29,MOTORCYCLE
+4,443,2.36,1.44,MOTORCYCLE
+1,138,1.2,1.89,no restriction
+8,844,1.2,2.24,MOTORCYCLE
+2,259,1.98,1.52,VAN
+9,904,2.47,1.74,no restriction
+7,765,2.27,1.29,MOTORCYCLE
+6,638,1.58,1.63,MOTORCYCLE
+5,545,1.55,1.68,no restriction
+3,351,1.36,1.7,VAN
+1,103,2.15,1.81,VAN
+6,657,2.41,2.0,no restriction
+3,328,2.44,2.19,no restriction
+5,594,2.35,1.48,no restriction
+7,763,1.38,1.44,no restriction
+9,975,1.45,1.10,no restriction
+1,121,1.96,1.12,MOTORCYCLE
+0,061,1.61,1.0,no restriction
+9,973,1.17,1.91,VAN
+5,552,1.92,2.12,no restriction
+7,701,1.67,2.44,no restriction
+2,247,2.43,1.55,CAR
+0,075,1.62,2.36,no restriction
+2,281,2.5,1.99,VAN
+6,609,2.17,1.63,no restriction
+8,807,1.59,1.79,no restriction
+4,435,1.95,2.33,no restriction
+6,674,2.0,1.59,no restriction
+7,715,2.24,2.44,no restriction
+5,578,1.26,1.11,no restriction
+7,759,1.37,2.37,no restriction
+7,774,1.48,2.39,no restriction
+0,044,2.39,1.64,no restriction
+2,282,1.3,1.51,VAN
+4,407,1.38,1.3,MOTORCYCLE
+8,877,2.17,1.71,no restriction
+4,433,1.67,1.19,no restriction
+6,627,2.3,2.13,MOTORCYCLE
+7,732,2.24,2.40,no restriction
+0,040,1.26,1.2,no restriction
+1,170,2.26,1.55,MOTORCYCLE
+0,027,2.29,1.96,no restriction
+0,083,1.77,1.82,no restriction
+5,504,2.43,2.44,VAN
+5,579,1.80,1.3,no restriction
+1,125,1.67,1.90,MOTORCYCLE
+6,663,2.14,1.85,CAR
+4,484,1.2,2.7,no restriction
+3,369,1.64,1.1,MOTORCYCLE
+0,051,1.52,1.16,MOTORCYCLE
+6,602,1.11,1.74,no restriction
+6,606,1.16,2.0,no restriction
+6,694,1.63,1.76,VAN
+6,633,1.89,1.97,no restriction
+7,796,1.68,1.43,no restriction
+3,374,1.52,1.60,no restriction
+9,996,1.39,1.33,no restriction
+0,080,2.24,1.22,no restriction
+4,442,2.48,1.52,no restriction
+1,165,2.49,2.1,CAR
+0,050,1.76,2.5,CAR
+3,365,1.58,2.24,no restriction
+5,528,1.76,2.36,no restriction
+8,893,1.93,1.2,no restriction
+8,891,1.20,2.26,VAN
+3,329,2.9,1.25,MOTORCYCLE
+8,866,2.31,1.17,CAR
+6,614,2.22,1.25,VAN
+1,129,2.13,2.3,no restriction
+2,269,2.3,2.20,no restriction
+2,280,1.0,1.56,no restriction
+3,317,1.36,1.77,no restriction
+6,603,1.76,2.35,no restriction
+2,261,1.7,1.98,no restriction
+2,246,2.45,1.24,no restriction
+0,026,1.17,1.48,no restriction
+6,649,1.13,2.32,no restriction
+6,662,1.15,1.13,no restriction
+5,509,1.70,1.62,MOTORCYCLE
+3,367,1.14,2.28,no restriction
+6,616,1.72,1.92,VAN
+8,865,1.12,1.58,VAN
+5,548,1.3,2.5,MOTORCYCLE
+6,696,2.38,1.54,CAR
+0,058,1.87,1.42,no restriction
+2,255,1.24,2.46,CAR
+3,310,1.84,2.28,no restriction
+8,880,1.86,2.48,no restriction
+3,354,2.5,2.38,VAN
+3,345,1.27,1.52,no restriction
+3,314,2.22,1.75,VAN
+5,592,1.7,2.27,no restriction
+8,835,1.77,1.86,no restriction
+5,511,1.50,2.40,no restriction
+3,344,1.49,1.31,VAN
+2,204,1.56,2.41,MOTORCYCLE
+2,232,1.65,2.8,no restriction
+7,767,2.2,1.83,no restriction
+5,598,1.48,1.59,CAR
+7,785,1.96,1.62,no restriction
+9,989,1.16,2.25,VAN
+9,923,2.44,1.64,MOTORCYCLE
+5,533,1.60,1.82,no restriction
+5,562,1.8,1.31,CAR
+0,024,1.2,1.39,VAN
+2,225,1.25,1.52,MOTORCYCLE
+8,849,2.44,1.54,MOTORCYCLE
+3,346,2.12,1.73,no restriction
+4,430,1.28,1.83,no restriction
+9,945,2.2,1.38,no restriction
+8,827,2.4,2.9,VAN
+3,318,1.40,1.15,VAN
+2,277,1.40,2.31,CAR
+2,270,1.12,2.2,no restriction
+6,631,1.8,2.44,CAR
+3,315,1.63,1.67,no restriction
+1,117,2.29,1.51,VAN
+8,814,2.28,2.23,CAR
+0,018,1.45,2.0,no restriction
+7,730,1.69,1.60,no restriction
+8,824,1.32,2.17,no restriction
+4,464,1.8,1.63,no restriction
+8,802,1.75,2.22,no restriction
+2,268,1.30,1.69,VAN
+3,338,2.47,1.5,CAR
+6,669,1.23,1.60,VAN
+1,100,2.40,1.53,MOTORCYCLE
+2,291,2.4,2.16,no restriction
+4,493,1.54,1.74,no restriction
+0,013,2.48,1.20,no restriction
+7,768,1.37,1.72,no restriction
+2,256,1.11,1.59,MOTORCYCLE
+3,376,1.44,1.17,CAR
+5,569,1.87,1.42,no restriction
+2,210,1.43,1.95,no restriction
+4,456,1.5,1.54,no restriction
+7,713,1.67,1.61,no restriction
+2,267,2.44,1.15,VAN
+0,062,2.43,2.48,no restriction
+1,132,1.46,1.65,no restriction
+9,984,2.43,2.11,no restriction
+6,684,1.35,1.28,CAR
+8,837,2.6,1.45,no restriction
+4,405,1.5,1.22,no restriction
+9,931,1.49,2.36,no restriction
+4,469,1.70,1.97,MOTORCYCLE
+9,994,1.33,1.23,CAR
+8,883,2.31,1.17,no restriction
+1,174,1.6,1.49,no restriction
+1,184,1.14,2.6,MOTORCYCLE
+3,326,2.5,1.84,no restriction
+0,073,1.50,1.60,no restriction
+6,698,2.6,2.2,CAR
+2,286,1.42,1.85,no restriction
+6,647,1.59,1.8,no restriction
+2,284,1.96,1.88,no restriction
+3,381,2.40,2.42,MOTORCYCLE
+1,137,1.14,1.71,CAR
+4,485,1.13,1.13,no restriction
+4,492,1.62,1.89,MOTORCYCLE
+0,070,1.94,2.0,no restriction
+4,470,1.62,1.64,no restriction
+8,882,1.30,1.46,VAN
+2,224,1.11,2.7,no restriction
+1,146,2.41,1.12,CAR
+8,804,2.48,2.34,no restriction
+6,672,2.48,1.1,no restriction
+8,899,2.34,1.54,CAR
+7,798,2.49,1.69,no restriction
+4,441,1.71,1.82,no restriction
+6,626,2.31,1.19,no restriction
+6,610,2.8,2.39,MOTORCYCLE
+0,036,2.28,1.33,VAN
+3,388,1.51,2.50,VAN
+5,585,1.20,1.23,CAR
+8,854,2.38,2.1,CAR
+7,771,1.67,1.89,no restriction
+6,680,1.47,1.9,no restriction
+5,516,1.3,1.2,no restriction
+1,186,2.39,1.56,no restriction
+0,016,1.72,1.95,no restriction
+4,426,1.92,2.30,no restriction
+3,362,1.88,2.28,CAR
+7,734,1.63,1.49,no restriction
+2,218,1.83,2.17,no restriction
+5,507,2.4,2.33,CAR
+2,238,1.91,2.35,CAR
+3,336,1.55,1.23,no restriction
+6,619,1.19,1.94,no restriction
+0,010,1.93,1.81,no restriction
+0,093,2.25,1.61,no restriction
+0,031,2.38,2.26,no restriction
+2,208,1.90,1.76,no restriction
+1,108,1.96,1.30,VAN
+3,399,1.24,1.35,VAN
+4,450,2.16,2.27,VAN
+5,551,1.80,1.6,no restriction
+4,417,1.9,1.95,VAN
+1,145,1.67,1.98,no restriction
+4,467,1.34,2.14,VAN
+4,447,1.74,1.31,no restriction
+1,193,1.20,1.75,CAR
+6,691,2.44,1.41,no restriction
+9,981,1.87,1.0,no restriction
+5,542,1.38,2.3,no restriction
+6,643,1.66,2.12,no restriction
+4,425,2.41,1.11,no restriction
+9,920,1.76,2.19,no restriction
+3,302,1.12,1.10,no restriction
+6,611,1.57,2.27,no restriction
+0,069,1.90,2.49,no restriction
+3,372,1.98,1.89,no restriction
+3,324,2.50,1.38,MOTORCYCLE
+4,459,2.10,1.63,no restriction
+3,375,1.68,1.65,MOTORCYCLE
+7,744,1.42,1.53,no restriction
+8,863,1.5,1.40,no restriction
+4,412,2.46,1.66,no restriction
+0,004,1.66,1.79,no restriction
+5,532,2.50,1.38,no restriction
+7,741,2.18,2.44,no restriction
+8,830,1.62,1.52,CAR
+9,988,2.39,2.21,no restriction
+5,560,1.22,1.27,CAR
+8,847,1.20,2.48,MOTORCYCLE
+6,632,2.33,1.28,no restriction
+5,527,2.23,1.94,MOTORCYCLE
+6,634,1.5,1.75,CAR
+9,901,1.50,1.88,no restriction
+8,898,2.47,2.41,no restriction
+4,488,1.1,2.41,no restriction
+6,623,2.6,2.34,no restriction
+0,019,1.61,1.87,MOTORCYCLE
+1,163,1.90,2.48,no restriction
+6,646,1.83,1.64,VAN
+1,192,1.25,1.5,no restriction
+2,205,2.17,2.5,no restriction
+2,214,2.11,1.4,no restriction
+5,500,1.61,1.34,no restriction
+3,340,2.5,1.53,no restriction
+4,457,1.92,1.16,no restriction
+4,472,2.16,2.45,VAN
+8,890,1.72,1.92,no restriction
+9,997,2.8,1.38,VAN
+1,109,2.26,1.33,no restriction
+7,773,1.20,2.38,CAR
+0,014,1.32,2.37,MOTORCYCLE
+9,936,1.19,2.17,no restriction
+5,567,1.73,1.79,no restriction
+4,436,1.90,1.3,no restriction
+5,502,1.88,2.7,no restriction
+4,409,1.67,2.36,no restriction
+7,782,2.1,1.24,CAR
+3,360,1.50,2.18,CAR
+3,370,1.15,1.68,no restriction
+0,001,1.19,2.50,no restriction
+3,321,1.56,1.0,no restriction
+6,690,1.6,1.69,no restriction
+8,811,1.3,1.48,VAN
+6,652,2.46,1.36,no restriction
+7,743,2.28,2.28,MOTORCYCLE
+6,644,1.15,1.30,no restriction
+2,227,1.67,1.0,no restriction
+2,264,2.18,1.8,no restriction
+7,799,2.17,1.62,no restriction
+0,002,1.48,1.11,no restriction
+5,574,2.49,2.2,no restriction
+2,253,2.19,1.5,CAR
+4,416,1.65,2.37,no restriction
+4,448,1.1,2.40,no restriction
+3,387,1.76,1.0,no restriction
+4,401,2.26,2.16,no restriction
+7,729,1.35,1.42,no restriction
+5,582,2.48,1.19,MOTORCYCLE
+1,147,2.29,1.21,no restriction
+6,618,2.40,1.69,VAN
+4,408,1.88,2.15,no restriction
+2,298,1.2,2.41,no restriction
+5,555,1.30,1.8,no restriction
+2,233,1.43,2.0,CAR
+4,489,2.7,1.56,no restriction
+4,449,2.26,1.13,CAR
+5,596,1.69,1.60,no restriction
+6,676,1.60,2.45,no restriction
+0,081,1.0,1.58,CAR
+9,906,1.12,1.81,CAR
+2,213,1.85,1.58,CAR
+7,766,2.4,2.14,no restriction
+5,526,1.95,1.17,CAR
+1,171,2.13,1.13,no restriction
+7,760,1.64,2.25,no restriction
+6,624,1.52,1.7,no restriction
+9,914,2.29,1.57,CAR
+7,793,1.96,1.49,no restriction
+5,547,1.36,2.6,CAR
+3,392,1.70,1.66,no restriction
+0,000,1.94,1.64,no restriction
+1,166,1.33,1.85,no restriction
+1,179,1.84,2.13,CAR
+5,590,1.99,1.11,VAN
+9,992,2.42,1.20,no restriction
+8,855,1.87,1.89,no restriction
+4,471,1.35,1.1,CAR
+7,726,1.7,2.45,no restriction
+0,008,2.42,2.32,CAR
+4,431,1.23,1.83,no restriction
+1,190,1.70,1.64,no restriction
+8,828,1.40,2.1,no restriction
+7,747,2.2,1.84,CAR
+4,440,1.62,1.27,no restriction
+7,705,1.35,1.37,no restriction
+7,718,1.15,1.57,MOTORCYCLE
+3,306,1.42,1.30,no restriction
+7,752,1.22,1.79,no restriction
+5,546,1.78,1.98,no restriction
+1,183,1.20,2.41,no restriction
+1,124,2.0,1.77,no restriction
+3,332,1.82,1.34,no restriction
+4,434,1.48,1.93,no restriction
+9,900,2.12,1.32,no restriction
+6,635,1.56,1.69,MOTORCYCLE
+8,810,2.24,1.37,CAR
+8,872,2.46,1.96,no restriction
+2,263,1.70,2.44,MOTORCYCLE
+5,541,2.10,2.29,CAR
+9,951,2.43,2.39,no restriction
+4,497,2.16,1.43,no restriction
+7,755,2.27,2.48,CAR
+4,410,1.55,1.7,CAR
+4,439,1.67,1.90,no restriction
+8,806,2.45,2.9,VAN
+0,052,1.6,1.73,MOTORCYCLE
+1,155,2.9,1.97,no restriction
+8,812,2.4,1.53,no restriction
+7,719,1.79,1.20,no restriction
+1,185,2.49,2.27,MOTORCYCLE
+7,738,1.91,2.17,no restriction
+9,990,2.47,1.89,VAN
+1,153,1.32,1.35,no restriction
+5,538,1.52,2.20,CAR
+8,817,2.20,1.24,CAR
+8,851,1.26,2.20,CAR
+8,878,1.67,1.79,CAR
+2,211,2.47,1.42,no restriction
+3,390,1.53,1.87,no restriction
+3,339,1.59,1.17,no restriction
+7,795,2.20,2.18,no restriction
+8,875,2.18,1.83,no restriction
+4,453,2.44,2.42,no restriction
+0,039,2.21,1.40,no restriction
+6,686,2.24,1.62,CAR
+1,106,2.49,1.61,no restriction
+3,349,2.35,1.54,VAN
+4,437,1.77,1.71,no restriction
+2,266,1.76,1.32,no restriction
+6,683,1.2,2.8,CAR
+6,636,1.24,1.53,no restriction
+6,678,2.26,1.51,CAR
+8,809,1.49,1.14,no restriction
+3,396,2.14,1.56,MOTORCYCLE
+5,518,2.48,2.28,no restriction
+9,970,1.43,1.68,no restriction
+3,347,1.9,1.63,MOTORCYCLE
+1,177,1.1,1.88,no restriction
+9,908,2.9,1.76,no restriction
+9,999,1.89,2.44,no restriction
+2,200,1.92,1.99,VAN
+9,927,1.73,2.9,no restriction
+9,921,2.31,2.41,no restriction
+8,876,2.2,1.40,no restriction
+3,394,1.87,2.6,MOTORCYCLE
+0,017,1.4,2.5,no restriction
+0,091,1.30,1.2,no restriction
+5,512,1.92,1.9,MOTORCYCLE
+2,226,1.45,1.27,no restriction
+9,925,2.20,2.40,no restriction
+3,334,2.31,1.94,no restriction
+8,864,1.96,2.1,no restriction
+4,451,1.41,1.2,no restriction
+1,158,1.87,2.34,no restriction
+9,955,1.88,1.35,CAR
+5,587,1.7,1.61,no restriction
+0,087,1.30,1.85,no restriction
+8,859,1.69,2.32,no restriction
+2,276,2.25,1.73,MOTORCYCLE
+9,939,1.7,1.61,MOTORCYCLE
+6,677,1.19,2.14,CAR
+3,300,2.15,1.26,MOTORCYCLE
+4,428,1.80,1.36,no restriction
+0,084,2.0,1.59,no restriction
+3,311,1.66,2.23,MOTORCYCLE
+0,064,2.40,2.14,no restriction
+8,833,2.2,2.44,no restriction
+0,089,1.4,1.58,no restriction
+0,038,1.77,2.29,no restriction
+7,700,2.46,2.7,no restriction
+0,076,2.31,1.38,no restriction
+8,801,2.30,1.54,no restriction
+7,764,2.22,1.68,VAN
+7,780,2.21,1.15,no restriction
+7,769,1.33,1.20,no restriction
+0,033,2.5,1.46,VAN
+8,843,1.4,2.29,MOTORCYCLE
+3,322,1.64,2.24,no restriction
+3,352,1.42,2.45,no restriction
+0,057,2.49,1.18,no restriction
+9,978,2.35,1.20,VAN
+8,823,2.4,1.28,no restriction
+3,393,2.15,1.37,no restriction
+4,402,1.15,1.97,CAR
+5,539,1.2,1.57,no restriction
+7,722,1.73,2.22,no restriction
+8,818,1.52,2.0,CAR
+9,910,1.95,1.26,no restriction
+2,260,1.7,1.11,no restriction
+5,544,1.97,2.2,no restriction
+1,148,2.7,1.88,no restriction
+8,826,1.21,1.22,no restriction
+5,571,1.35,1.3,MOTORCYCLE
+1,151,1.85,1.41,no restriction
+5,501,2.6,1.92,CAR
+2,274,1.91,1.92,CAR
+7,789,1.52,1.91,MOTORCYCLE
+6,653,1.36,1.48,no restriction
+3,320,1.70,1.73,no restriction
+7,709,2.21,1.7,no restriction
+5,572,1.39,2.14,CAR
+2,241,1.97,1.60,no restriction
+5,559,1.75,2.41,no restriction
+4,473,2.11,2.36,VAN
+5,576,2.42,2.37,CAR
+1,169,2.23,2.4,no restriction
+6,658,2.49,1.51,no restriction
+8,856,1.56,1.20,no restriction
+8,838,1.88,2.27,VAN
+3,384,1.98,2.47,no restriction
+6,659,1.49,2.32,no restriction
+9,969,1.61,1.15,no restriction
+9,916,2.24,2.4,no restriction
+6,615,1.6,2.8,no restriction
+3,313,1.40,1.19,MOTORCYCLE
+3,331,1.81,1.33,no restriction
+2,289,2.11,1.46,MOTORCYCLE
+5,505,1.34,2.43,MOTORCYCLE
+8,831,1.92,1.66,MOTORCYCLE
+8,860,2.27,1.5,no restriction
+6,629,2.29,1.66,VAN
+6,648,1.14,1.66,no restriction
+6,655,1.54,1.18,CAR
+1,198,1.9,2.19,no restriction
+5,589,1.37,1.96,CAR
+3,304,1.60,2.46,VAN
+9,954,1.70,2.17,no restriction
+8,852,2.16,1.67,no restriction
+2,293,2.40,1.81,no restriction
+3,383,2.37,2.31,no restriction
+7,710,1.51,2.28,no restriction
+2,257,2.4,1.43,no restriction
+6,671,2.45,2.8,no restriction
+5,529,1.11,1.50,VAN
+6,639,2.1,1.3,no restriction
+4,446,2.12,2.9,CAR
+9,912,1.83,1.68,no restriction
+0,047,2.43,2.46,no restriction
+4,476,2.38,2.9,MOTORCYCLE
+1,178,1.80,2.30,no restriction
+2,299,1.90,1.48,no restriction
+6,645,1.1,1.83,no restriction
+8,895,2.26,1.62,CAR
+2,203,1.64,1.16,VAN
+0,046,2.50,1.4,MOTORCYCLE
+3,353,1.42,1.67,CAR
+7,712,1.29,2.30,no restriction
+5,503,1.32,1.75,VAN
+5,575,2.7,1.30,VAN
+0,055,1.49,1.89,CAR
+7,728,1.37,1.96,no restriction
+0,079,1.41,1.27,no restriction
+0,032,1.18,1.45,MOTORCYCLE
+4,427,1.37,1.63,no restriction
+3,327,1.47,1.78,no restriction
+4,444,2.13,1.42,no restriction
+1,182,2.2,2.9,no restriction
+1,113,2.37,1.1,no restriction
+7,724,1.58,2.43,VAN
+1,161,1.67,1.90,VAN
+4,461,1.74,1.77,no restriction
+7,723,1.17,2.38,MOTORCYCLE
+3,342,2.13,1.97,no restriction
+3,373,1.37,1.22,CAR
+5,586,2.22,1.45,no restriction
+2,275,1.1,2.40,MOTORCYCLE
+6,642,2.4,1.17,no restriction
+8,839,1.35,2.30,no restriction
+3,333,2.46,1.76,no restriction
+1,139,2.41,1.59,no restriction
+7,708,1.84,1.49,CAR
+2,271,1.88,1.35,no restriction
+9,948,2.24,1.52,no restriction
+1,111,1.40,2.20,no restriction
+1,104,2.17,1.99,MOTORCYCLE
+4,445,1.30,2.25,MOTORCYCLE
+8,885,2.42,2.37,no restriction
+2,207,1.36,1.76,no restriction
+3,395,2.2,1.30,no restriction
+4,498,2.25,1.94,VAN
+9,972,1.72,1.69,no restriction
+6,607,2.43,1.61,VAN
+5,535,1.85,1.64,no restriction
+6,630,1.46,1.62,no restriction
+2,219,2.38,1.34,no restriction
+4,463,1.22,1.95,CAR
+2,279,1.70,1.94,MOTORCYCLE
+4,478,2.16,2.32,no restriction
+8,836,2.20,2.2,no restriction
+0,005,2.19,1.75,no restriction
+6,661,1.85,1.85,VAN
+3,380,1.83,1.16,no restriction
+9,965,2.30,1.11,no restriction
+3,335,2.49,2.41,no restriction
+1,136,1.84,1.62,VAN
+7,740,2.23,1.36,no restriction
+7,756,2.24,2.36,no restriction
+6,654,1.24,2.32,no restriction
+5,543,1.27,1.9,MOTORCYCLE
+8,871,1.53,2.17,VAN
+4,480,1.59,2.12,CAR
+6,699,1.41,2.3,no restriction
+0,003,1.92,2.22,no restriction
+2,222,1.33,2.33,CAR
+7,704,1.9,1.98,VAN
+9,962,1.29,1.85,no restriction
+7,788,1.52,1.7,no restriction
+9,964,2.22,1.16,no restriction
+7,783,1.13,2.9,no restriction
+3,358,1.19,1.25,no restriction
+0,007,1.69,2.31,VAN
+9,986,1.76,2.21,MOTORCYCLE
+1,122,1.4,1.84,no restriction
+8,815,1.46,1.8,no restriction
+7,751,1.27,2.19,no restriction
+2,297,1.45,1.40,MOTORCYCLE
+5,591,1.73,1.61,no restriction
+3,379,2.27,1.92,VAN
+8,853,1.17,2.42,no restriction
+1,130,2.6,1.84,no restriction
+4,458,1.98,1.6,no restriction
+7,761,2.25,1.8,MOTORCYCLE
+6,628,1.77,1.17,no restriction
+0,063,1.63,1.0,CAR
+7,745,2.25,1.60,no restriction
+5,530,1.79,1.36,CAR
+3,301,1.35,1.98,CAR
+4,424,1.35,1.55,no restriction
+1,116,2.31,2.31,no restriction
+8,868,1.82,2.29,no restriction
+8,884,2.15,1.78,no restriction
+2,283,1.76,1.85,MOTORCYCLE
+9,944,2.39,1.15,no restriction
+6,697,2.16,2.8,no restriction
+9,902,1.30,1.68,no restriction
+7,702,1.50,1.33,CAR
+8,846,2.15,1.75,no restriction
+2,288,1.22,1.66,no restriction
+4,414,1.42,1.53,MOTORCYCLE
+6,689,1.14,1.65,no restriction
+7,735,1.81,2.13,no restriction
+1,102,2.36,1.81,no restriction
+7,775,2.45,1.79,no restriction
+2,212,1.82,1.38,CAR
+1,162,1.6,2.20,no restriction
+0,012,1.94,2.5,no restriction
+8,887,2.33,1.54,no restriction
+4,499,2.15,1.80,MOTORCYCLE
+3,366,1.19,2.45,no restriction
+7,758,1.68,1.82,CAR
+8,820,1.96,2.20,VAN
+2,244,2.22,2.36,VAN
+2,231,1.41,1.28,no restriction
+7,703,1.91,2.25,MOTORCYCLE
+4,432,2.48,2.7,no restriction
+5,553,1.82,1.53,CAR
+9,943,2.39,1.59,VAN
+4,415,2.13,1.33,MOTORCYCLE
+8,819,1.6,1.29,no restriction
+8,803,1.55,1.89,no restriction
+3,391,1.54,2.20,no restriction
+9,940,1.33,1.59,CAR
+2,234,1.1,1.76,no restriction
+5,556,2.38,2.35,VAN
+6,625,2.20,2.18,no restriction
+0,099,1.69,1.93,no restriction
+3,398,1.10,1.25,no restriction
+8,842,1.67,1.45,no restriction
+5,531,1.36,2.50,no restriction
+5,580,2.19,2.15,MOTORCYCLE
+1,105,1.65,1.9,CAR
+4,400,1.15,1.95,MOTORCYCLE
+8,874,1.84,2.48,no restriction
+2,251,1.26,1.20,no restriction
+7,779,1.5,1.34,no restriction
+8,896,2.15,2.18,VAN
+3,382,1.27,2.7,no restriction
+9,987,1.58,1.68,no restriction
